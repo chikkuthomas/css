@@ -1,0 +1,26 @@
+body{
+    background-image: url(pexels-adrienne-andersen-2237798.jpg);
+}
+#bombay{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color:darkorange;
+   text-shadow: darkviolet;
+   text-align:center;
+   text-decoration:underline;
+  
+}
+#mum{
+    color: rgb(247, 15, 15);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+#food{
+    font-family: initial;
+}
+#para{
+    color: rgb(27, 94, 0);
+}
+.menu{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,35 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+body{
+    height: 1500px;
+}
+
+.parent{
+    width: 600px;
+    height: 1000px;
+    background-color: darkolivegreen;
+    border: solid rgb(14, 1, 14) 1px;
+    position:relative;
+    top: 10px;
+    left: 10px;
+}
+.first{
+    background-color: chocolate;
+  
+}
+.second{
+    background-color: darkblue;
+    position: absolute;
+
+    left:300px;
+   
+}
+.fixed{
+    position: fixed;
+    background-color: rgb(221, 28, 28);
+}
+.sticky{
+    position:sticky;
+}

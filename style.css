@@ -1,0 +1,45 @@
+/*tagname or id or classname{
+    property:value;
+    property2:value;
+    propertyn:valuen;
+}*/
+
+body{
+    /*background-color:#010f0b ;*/
+    background-image: url(pexels-adrienne-andersen-2237798.jpg);
+}
+
+#headone{
+    color:black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+
+}
+
+.book-name{
+    color:brown;
+    text-decoration: underline;
+}
+
+.novel{
+    color: #34c26f;
+}
+.movie{
+    color: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    width: 30%;
+    text-align: center;
+    float:left;
+    height: 430px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+.content{
+    text-align: justify;
+    line-height: 30px;
+}

@@ -1,0 +1,21 @@
+div{
+    border:1px solid rgb(116, 5, 5);
+    width: 500px;
+    height: 100px;
+}
+.top{
+    
+    background-color: burlywood;
+    margin-left: 544px;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.bottom{
+    background-color: cadetblue;
+    margin-top: 330px;
+    margin-left: 544px;
+    padding:10px;
+
+}
